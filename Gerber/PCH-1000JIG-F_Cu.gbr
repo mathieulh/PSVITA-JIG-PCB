@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,(7.0.0)*%
-%TF.CreationDate,2023-02-22T15:50:29+01:00*%
+%TF.CreationDate,2023-02-24T13:42:34+01:00*%
 %TF.ProjectId,PCH-1000JIG,5043482d-3130-4303-904a-49472e6b6963,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Copper,L1,Top*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (7.0.0)) date 2023-02-22 15:50:29*
+G04 Created by KiCad (PCBNEW (7.0.0)) date 2023-02-24 13:42:34*
 %MOMM*%
 %LPD*%
 G01*
@@ -683,7 +683,7 @@ D13*
 %TO.N,N/C*%
 X17780000Y-53340000D03*
 %TD*%
-%TO.P,UDT 12,1*%
+%TO.P,UDC 12,1*%
 %TO.N,N/C*%
 X71120000Y-53340000D03*
 %TD*%
@@ -695,7 +695,7 @@ X43180000Y-22860000D03*
 X48260000Y-22860000D03*
 %TD*%
 D13*
-%TO.P,UDT 3,1*%
+%TO.P,UDC 3,1*%
 %TO.N,N/C*%
 X93980000Y-53340000D03*
 %TD*%
@@ -707,7 +707,7 @@ X86360000Y-53340000D03*
 %TO.N,N/C*%
 X33020000Y-53340000D03*
 %TD*%
-%TO.P,UDT 11,1*%
+%TO.P,UDC 11,1*%
 %TO.N,N/C*%
 X63500000Y-53340000D03*
 %TD*%
