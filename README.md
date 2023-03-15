@@ -8,4 +8,5 @@ Logic was tested (board itself still untested).
 
 New smaller 0805 footprint PCB: 
 
-![image](https://user-images.githubusercontent.com/203427/225325926-0803bc48-bbdb-42ff-8316-a2d7af24ebae.png)
+![image](https://user-images.githubusercontent.com/203427/225348474-67f1b619-1317-4e49-8dcd-ff30cb4a7db6.png)
+
