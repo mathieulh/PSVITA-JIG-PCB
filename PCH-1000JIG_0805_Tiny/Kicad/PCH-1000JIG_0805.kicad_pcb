@@ -405,7 +405,7 @@
     (descr "Wire Pad, Square, SMD Pad,  1mm x 2mm,")
     (tags "MesurementPoint Square SMDPad 1mmx2mm ")
     (attr exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "3.3V" (at 0.8 0.64) (layer "F.SilkS")
+    (fp_text reference "3.3V" (at 1.54 0.64) (layer "F.SilkS")
         (effects (font (size 1 0.5) (thickness 0.15)))
       (tstamp 748a01e3-1964-4aba-8ac9-e81b368f71df)
     )
