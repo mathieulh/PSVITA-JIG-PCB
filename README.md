@@ -12,7 +12,6 @@ New smaller 0805 footprint PCB:
 
 Tiny 0805 footprint (meant to fit within the PCH-ZCL1 craddle)
 
-![image](https://user-images.githubusercontent.com/203427/225634540-8f7414e2-0662-4d2d-8ea5-2728db685a9d.png)
-
-![image](https://user-images.githubusercontent.com/203427/225634479-49a4e359-fd8c-4c3a-afb4-88bac49c8dbb.png)
+![image](https://user-images.githubusercontent.com/203427/225639447-326aff53-847e-4112-8abe-ae44e8d59ba6.png)
+![image](https://user-images.githubusercontent.com/203427/225639522-6847ea17-3757-45b9-8aac-3477ff509b29.png)
 
