@@ -1,7 +1,7 @@
 # PCH-1000-JIG-PCB
 PCB for JIG on PCH-1000/PDEL-1000 PSVITA
 
-Logic was tested (board itself still untested).
+The board was successfully tested.
 ![image](https://user-images.githubusercontent.com/203427/227253381-5540598f-7e01-4136-84e2-654cc3f371b4.png)
 ![image](https://user-images.githubusercontent.com/203427/227253485-31d1d972-028e-47ee-a81c-1ea229f9e80f.png)
 
