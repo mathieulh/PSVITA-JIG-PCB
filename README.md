@@ -6,6 +6,11 @@ The board was successfully tested.
 ![image](https://user-images.githubusercontent.com/203427/227253485-31d1d972-028e-47ee-a81c-1ea229f9e80f.png)
 
 
+Newer (untested) throughhole design: 
+
+![image](https://user-images.githubusercontent.com/203427/227498831-ceb81897-a547-4ceb-9d31-55ff941b60cf.png)
+
+
 New smaller 0805 footprint PCB: 
 
 ![image](https://user-images.githubusercontent.com/203427/225348474-67f1b619-1317-4e49-8dcd-ff30cb4a7db6.png)
