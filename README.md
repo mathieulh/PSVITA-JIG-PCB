@@ -12,6 +12,13 @@ New smaller 0805 footprint PCB:
 
 
 Tiny 0805 footprint (meant to fit within the PCH-ZCL1 craddle)
+16.6 x 11mm(0.65 x 0.43 inches)
 
 ![image](https://user-images.githubusercontent.com/203427/225658495-ec06bd6f-8084-4344-b684-ed58eb531545.png)
 ![image](https://user-images.githubusercontent.com/203427/225658419-1a270cdc-9460-42ed-94f4-285438aee1ef.png)
+
+Nano 0805 footprint (smaller than Tiny) / Updated Resistors BOM (untested but should work)
+14.8 x 11mm(0.58 x 0.43 inches)
+
+![image](https://user-images.githubusercontent.com/203427/227492928-caf60043-f5c3-494f-8b5f-53676ca7a3ba.png)
+
