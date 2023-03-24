@@ -1,9 +1,10 @@
 # PCH-1000-JIG-PCB
 PCB for JIG on PCH-1000/PDEL-1000 PSVITA
 
+Original throughhole design (now defined as Alternative design)
 The board was successfully tested.
-![image](https://user-images.githubusercontent.com/203427/227253381-5540598f-7e01-4136-84e2-654cc3f371b4.png)
-![image](https://user-images.githubusercontent.com/203427/227253485-31d1d972-028e-47ee-a81c-1ea229f9e80f.png)
+![image](https://user-images.githubusercontent.com/203427/227500791-3c5b47f9-d491-48f5-9ebc-42fe5a4dbd85.png)
+![image](https://user-images.githubusercontent.com/203427/227500906-a0003081-95c0-42fd-bc33-4cddedeb600d.png)
 
 
 Newer (untested) throughhole design: 
