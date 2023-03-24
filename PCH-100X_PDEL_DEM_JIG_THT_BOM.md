@@ -25,6 +25,7 @@ https://www.amazon.com/DEVMO-Breadboard-Supply-Module-Arduino/dp/B07S4G1YVY/ref
 - 12V External Power Supply (to power the 3.3V PICO PSU)
 
 https://www.amazon.com/ALITOVE-Adapter-Converter-100-240V-5-5x2-1mm/dp/B01GEA8PQA
+
 (anything 12v 2A (or higher) with 5,5 * 2,5 mm barrel connector should work) 
 
 - 3 x 1k Ohms resistors (on normal design) OR 2 x 1k Ohms resistors (on ALT design)
