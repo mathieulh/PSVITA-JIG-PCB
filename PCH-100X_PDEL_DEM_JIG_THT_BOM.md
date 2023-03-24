@@ -1,5 +1,6 @@
-if you want to build JIG you will need the following: 
+if you want to build JIG using the Throughhole board you will need the following: 
 
+Other board designs follow the same BOM but resistor footprint is changed to 0805
 
 - PSV Craddle PCH-ZCL1
 
@@ -26,15 +27,19 @@ https://www.amazon.com/DEVMO-Breadboard-Supply-Module-Arduino/dp/B07S4G1YVY/ref
 https://www.amazon.com/ALITOVE-Adapter-Converter-100-240V-5-5x2-1mm/dp/B01GEA8PQA
 (anything 12v 2A (or higher) with 5,5 * 2,5 mm barrel connector should work) 
 
-- 2 x 1k Ohms resistors
+- 3 x 1k Ohms resistors (on normal design) OR 2 x 1k Ohms resistors (on ALT design)
 
 https://www.amazon.com/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FHPJ5G8
 
-- 2 x 330 Ohms resistors
+- 2 x 330 Ohms resistors (only for ALT design)
 
 https://www.amazon.com/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FHPJ5G8
 
-- 1 x 150 Ohms resistor
+- 1 x 150 Ohms resistor (only for ALT design)
+
+https://www.amazon.com/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FHPJ5G8
+
+- 1 x 220 Ohms resistor (only for normal design)
 
 https://www.amazon.com/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FHPJ5G8
 
