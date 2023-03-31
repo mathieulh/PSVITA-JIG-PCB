@@ -18,9 +18,13 @@ https://www.amazon.com/FainWan-Converter-Breakout-Compatible-Ar-duino/dp/B09JZC6
 
 https://www.amazon.com/HiLetgo-FT232RL-Converter-Adapter-Breakout/dp/B00IJXZQ7C
 
+/////OPTIONAL///// (not required if you connect the FTDI 3.3V VCC to the 3.3V pad)
+
 - 3.3V PICO PSU (alternatively, you can use a bench power supply)
 
 https://www.amazon.com/DEVMO-Breadboard-Supply-Module-Arduino/dp/B07S4G1YVY/ref
+
+/////OPTIONAL///// (not required if you connect the FTDI 3.3V VCC to the 3.3V pad)
 
 - 12V External Power Supply (to power the 3.3V PICO PSU)
 
