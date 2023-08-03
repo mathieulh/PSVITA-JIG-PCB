@@ -18,7 +18,7 @@ https://www.amazon.com/FainWan-Converter-Breakout-Compatible-Ar-duino/dp/B09JZC6
 
 https://www.amazon.com/HiLetgo-FT232RL-Converter-Adapter-Breakout/dp/B00IJXZQ7C
 
-- 3 x 1k Ohms resistors (on normal design) OR 2 x 1k Ohms resistors (on ALT design)
+- 3 x 1k Ohms resistors (on normal or 5V design) OR 2 x 1k Ohms resistors (on ALT design)
 
 https://www.amazon.com/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FHPJ5G8
 
@@ -26,7 +26,7 @@ https://www.amazon.com/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FHPJ5G8
 
 https://www.amazon.com/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FHPJ5G8
 
-- 1 x 150 Ohms resistor (only for ALT design)
+- 1 x 150 Ohms resistor (only for ALT or 5V design)
 
 https://www.amazon.com/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FHPJ5G8
 
