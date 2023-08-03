@@ -28,3 +28,5 @@ Nano 0805 footprint (smaller than Tiny) / Updated Resistors BOM / 5 Volts versio
 
 ![image](https://user-images.githubusercontent.com/203427/227506877-3af192a1-2e8c-4319-9034-aa9a998d90dc.png)
 
+![image](https://github.com/mathieulh/PCH-1000-JIG-PCB/assets/203427/695ea0f9-4699-45fd-9cd2-5edc723a76be)
+
